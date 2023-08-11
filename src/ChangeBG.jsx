@@ -3,7 +3,7 @@ import "./ClickCount.css"
 const ChangeBG = () => {
 
     const[color,setColor]=useState("#b3d1e5")
-        const changePurple =()=>{
+    const changePurple =()=>{
         
         setColor("purple");
     }
